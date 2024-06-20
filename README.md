@@ -1,2 +1,0 @@
-# BANDIT
-Master template
